@@ -312,6 +312,7 @@ If you have questions:
 - Check existing [Issues](https://github.com/rayani2001/ai-hotel-receptionist/issues)
 - Open a new issue with `question` label
 - Start a [Discussion](https://github.com/rayani2001/ai-hotel-receptionist/discussions)
+- Email: fminoli92@gmail.com
 
 ## 🎉 Recognition
 
@@ -321,3 +322,8 @@ Contributors will be recognized in:
 - Contributors page
 
 Thank you for contributing! 🙏
+
+---
+
+**Project Maintainer**: Rayani ([@rayani2001](https://github.com/rayani2001))  
+**Contact**: fminoli92@gmail.com

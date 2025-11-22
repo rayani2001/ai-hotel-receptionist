@@ -300,7 +300,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **Rayani** - *Initial work* - [rayani2001](https://github.com/rayani2001)
+- **Rayani** - *Full Stack AI Developer* - [rayani2001](https://github.com/rayani2001)
+- 📧 Email: fminoli92@gmail.com
+
+## 📞 Support
+
+For support and questions:
+- 📧 Email: fminoli92@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/rayani2001/ai-hotel-receptionist/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/rayani2001/ai-hotel-receptionist/discussions)
 
 ## 🙏 Acknowledgments
 
@@ -308,12 +316,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - SQLAlchemy for robust database ORM
 - The open-source community for inspiration and support
 - All contributors who helped improve this project
-
-## 📞 Support
-
-For support and questions:
-- 📧 Open an issue: [GitHub Issues](https://github.com/rayani2001/ai-hotel-receptionist/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/rayani2001/ai-hotel-receptionist/discussions)
 
 ## 🗺️ Roadmap
 
@@ -344,3 +346,5 @@ If you find this project helpful, please consider giving it a ⭐️!
 **Made with ❤️ for the hospitality industry**
 
 *Revolutionizing hotel guest services through AI-powered conversational agents*
+
+**Developer**: Rayani | **Contact**: fminoli92@gmail.com | **GitHub**: [@rayani2001](https://github.com/rayani2001)
